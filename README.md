@@ -10,7 +10,7 @@ untuk mencoba service, ketik pada url browser:
 
 Pada percobaan ini file **klien.php** satu folder bersama **server.php**. Anda dapat memindahkannya dalam rangka testing.
 
-| Kelompok 1 |
+ Kelompok 1 
 nama | Anita Nur Aprilianti | NPM | 1144067 | d4ti2c
 nama | Diandita Wira Puspita | NPM | 1144028 | d4ti2c
 nama | Fitri Fadhilah | NPM | 1144064 | d4ti2c
